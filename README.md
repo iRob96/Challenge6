@@ -1,8 +1,7 @@
 # Challenge6
 
-# Challange_5
 
-Renatl Market Analysis
+Rental Market Analysis
 
 This app allows users to find viable investment opportunities in the San Fransico market.
 
